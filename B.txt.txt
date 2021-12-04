@@ -1,2 +1,6 @@
 This change is made by dev1
+<<<<<<< HEAD
 This change is made by dev2....$$$$$
+=======
+This change is made by dev1.......
+>>>>>>> a59666e1f352118a92fe53854f6af876707e9acd
